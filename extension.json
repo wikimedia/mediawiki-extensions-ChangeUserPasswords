@@ -7,6 +7,7 @@
 	],
 	"url": "https://www.mediawiki.org/wiki/Extension:ChangeUserPasswords",
 	"descriptionmsg": "changeuserpassword-desc",
+	"license-name": "CC-BY-NC-4.0",
 	"type": "specialpage",
 	"GroupPermissions": {
 		"sysop": {
