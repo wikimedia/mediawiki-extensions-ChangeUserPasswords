@@ -1,7 +1,6 @@
-
 <?php
 /**
- * Aliases for special pages of the {{ cookiecutter.repo_name }} extension
+ * Aliases for special pages of the ChangeUserPasswords extension
  *
  * @file
  * @ingroup Extensions
@@ -11,6 +10,5 @@ $specialPageAliases = [];
 
 /** English (English) */
 $specialPageAliases['en'] = [
-	'ChangeUserPasswords' => [ 'Change User Passwords' , 'ChangeUserPasswords'],
+	'ChangeUserPasswords' => [ 'Change User Passwords' , 'ChangeUserPasswords' ],
 ];
-

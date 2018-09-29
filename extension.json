@@ -14,9 +14,6 @@
 			"changeuserpasswords": true
 		}
 	},
-	"ExtensionMessagesFiles": {
-		"ChangeUserPasswordsAlias": "ChangeUserPasswords.i18n.alias.php"
-	},
 	"AvailableRights": [
 		"changeuserpasswords"
 	],
@@ -30,21 +27,10 @@
 	"ExtensionMessagesFiles": {
 		"ChangeUserPasswordsAlias": "ChangeUserPasswords.i18n.alias.php"
 	},
-
 	"MessagesDirs": {
 		"ChangeUserPasswords": [
 			"i18n"
 		]
-	},
-	"ResourceModules": {
-		"ext.ChangeUserPasswords": {
-			"messages": [],
-			"dependencies": []
-		}
-	},
-	"ResourceFileModulePaths": {
-		"localBasePath": "",
-		"remoteExtPath": "ChangeUserPasswords"
 	},
 	"SpecialPages": {
 		"ChangeUserPasswords": "SpecialChangeUserPasswords"

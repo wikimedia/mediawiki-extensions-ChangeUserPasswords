@@ -1,16 +1,14 @@
 {
 	"@metadata": {
 		"authors": [
-			"Shirayuki",
-			"Umherirrender",
-			"Amire80",
-			"Fhocutt",
-			"Liuxinyu970226"
 		]
 	},
-	"{{ cookiecutter.i18n_prefix }}-desc": "{{ "{{" }}desc|name={{ cookiecutter.repo_name }}|url={{ cookiecutter.url }} {{ "}}" }}",
-	"{{ cookiecutter.i18n_prefix }}-i18n-welcome": "Used to greet the user when reading the i18n/??.json file."{% if cookiecutter.integration_add_example_special_page == 'y' %},
-	"{{ cookiecutter.i18n_prefix }}-helloworld": "Page title of the HelloWorld special page.\n{{ "{{" }}Identical|Hello World{{ "}}" }}",
-	"{{ cookiecutter.i18n_prefix }}-helloworld-intro": "Text displayed on the HelloWorld SpecialPage.",
-	"helloworld": "Text of the link to the HelloWorld special page on SpecialPages.\n{{ "{{" }}Identical|Hello World{{ "}}" }}"{% endif %}
+	"changeuserpasswords": "Name of the special page on [[Special:SpecialPages]]",
+	"changeuserpassword-desc": "{{desc|name=Change User Passwords|url=https://www.mediawiki.org/wiki/Extension:ChangeUserPasswords}}",
+	"changeuserpassword-pagename": "Used as pagename message",
+	"changeuserpassword-topheader": "Used as topheader message",
+	"changeuserpassword-success": "Used as success message",
+	"changeuserpassword-title": "Used as title message",
+	"changeuserpassword-intro": "Used as intro message",
+	"right-changeuserpasswords": "{{doc-right|changeuserpasswords}}"
 }
