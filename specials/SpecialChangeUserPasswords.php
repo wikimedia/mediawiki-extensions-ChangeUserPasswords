@@ -46,7 +46,7 @@ class SpecialChangeUserPasswords extends SpecialPage {
 		}
 
 		$formDescriptor = [
-			'omgmultiselect' => [
+			'userNamesSelect' => [
 				'class' => 'HTMLMultiSelectField',
 				'options' => $options,
 				'default' => $options,
@@ -69,12 +69,12 @@ class SpecialChangeUserPasswords extends SpecialPage {
 	}
 
 	public function trySubmit( $formData ) {
-		if ( $formData['omgmultiselect'] ) {
+		if ( $formData['userNamesSelect'] ) {
 			$passwordFactory = new PasswordFactory();
 			$passwordFactory->init( RequestContext::getMain()->getConfig() );
 			$maxUserId = 0;
 
-			$blackList = $formData['omgmultiselect'];
+			$blackList = $formData['userNamesSelect'];
 			$dbr = wfGetDB( DB_MASTER );
 			$contents = '<html><body><table border = "1" cellspacing = "5"  cellpadding = "5">';
 			$contents .= '<tr><th><strong>' . "Username" . '</strong></th>' . '<th><strong>' .
