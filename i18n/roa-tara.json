@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Joetaras"
+		]
+	},
+	"changeuserpasswords": "Cange le Password de l'Utinde",
+	"changeuserpassword-desc": "Queste jè 'n'estenzione pe cangià le password de l'utinde, tranne a picche ca sò indicate da l'amministrature.",
+	"changeuserpassword-success": "Password de l'utende cangiate!"
+}
