@@ -1,0 +1,10 @@
+{
+	"@metadata": {
+		"authors": [
+			"Robby"
+		]
+	},
+	"changeuserpasswords": "Benotzer Passwierder änneren",
+	"changeuserpassword-success": "Benotzer Paswswierder geännert!",
+	"changeuserpassword-title": "Benotzer Passwierder änneren"
+}
