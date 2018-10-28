@@ -6,5 +6,6 @@
 	},
 	"changeuserpasswords": "Benotzer Passwierder änneren",
 	"changeuserpassword-success": "Benotzer Paswswierder geännert!",
-	"changeuserpassword-title": "Benotzer Passwierder änneren"
+	"changeuserpassword-title": "Benotzer Passwierder änneren",
+	"right-changeuserpasswords": "Benotzer Passwierder änneren"
 }
