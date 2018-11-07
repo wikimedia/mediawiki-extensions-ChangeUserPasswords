@@ -1,0 +1,12 @@
+{
+	"@metadata": {
+		"authors": [
+			"WikiPhoenix"
+		]
+	},
+	"changeuserpasswords": "Ändra användarlösenord",
+	"changeuserpassword-topheader": "Markera de användarnamn där lösenordet behöver ändras. Alla användare markeras som standard. Avmarkera användarnamnen som du inte vill ändra lösenorden för.",
+	"changeuserpassword-success": "Användarlösenordet ändrades!",
+	"changeuserpassword-title": "Ändra användarlösenord",
+	"right-changeuserpasswords": "Ändra användarlösenord"
+}
