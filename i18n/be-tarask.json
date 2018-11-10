@@ -7,5 +7,6 @@
 	"changeuserpasswords": "Зьмена пароляў удзельнікаў",
 	"changeuserpassword-desc": "Гэта пашырэньне для зьмены пароляў удзельнікаў, за выключэньнем некаторых, вызначаных адміністратарам.",
 	"changeuserpassword-pagename": "Зьмена пароляў удзельнікаў",
-	"changeuserpassword-success": "Паролі ўдзельнікаў зьмененыя!"
+	"changeuserpassword-success": "Паролі ўдзельнікаў зьмененыя!",
+	"changeuserpassword-title": "Зьмена пароляў удзельнікаў"
 }
