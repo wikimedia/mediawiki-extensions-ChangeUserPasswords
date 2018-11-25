@@ -1,0 +1,11 @@
+{
+	"@metadata": {
+		"authors": [
+			"Railfail536"
+		]
+	},
+	"changeuserpasswords": "Zmień hasło użytkownika",
+	"changeuserpassword-desc": "Rozszerzenie umożliwiające zmienianie hasła użytkownikom nie będącym administratorami",
+	"changeuserpassword-success": "Zmieniono hasło użytkownika!",
+	"changeuserpassword-title": "Zmień hasło użytkownika"
+}
