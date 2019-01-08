@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Zoranzoki21"
+			"Zoranzoki21",
+			"Vlad5250"
 		]
 	},
 	"changeuserpasswords": "Promena lozinki korisnika",
@@ -11,5 +12,5 @@
 	"changeuserpassword-success": "Korisničke lozinke su promenjene!",
 	"changeuserpassword-title": "Promena korisničkih lozinki",
 	"changeuserpassword-intro": "Ovo je ekstenzija za promenu lozinki korisnika, osim nekoliko koliko je naznačeno od strane administratora.",
-	"right-changeuserpasswords": "Promena korisničkih lozinki"
+	"right-changeuserpasswords": "promena korisničkih lozinki"
 }
