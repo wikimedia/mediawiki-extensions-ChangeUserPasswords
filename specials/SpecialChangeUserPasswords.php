@@ -53,9 +53,9 @@ class SpecialChangeUserPasswords extends SpecialPage {
 			],
 		];
 		// $msg = $this->msg( 'changeuserpassword-topheader' );
-		$htmlForm = new HTMLForm( $formDescriptor, $this->getContext(), 'testform' );
+		$htmlForm = HTMLForm::factory( 'ooui', $formDescriptor, $this->getContext(), 'testform' );
 		$htmlForm->setIntro( $this->msg( 'changeuserpassword-topheader' ) );
-		$htmlForm->setSubmitText( $msg = $this->msg( 'changeuserpassword-title' ) );
+		$htmlForm->setSubmitTextMsg( 'changeuserpassword-title' );
 		$htmlForm->setSubmitCallback( [ $this, 'trySubmit' ] );
 		$htmlForm->show();
 		if ( $this::$success == true ) {
