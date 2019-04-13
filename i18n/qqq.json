@@ -7,5 +7,6 @@
 	"changeuserpassword-success": "Used as success message",
 	"changeuserpassword-title": "Used as title message",
 	"changeuserpassword-intro": "Used as intro message",
+	"action-changeuserpasswords": "{{doc-action|changeuserpasswords}}",
 	"right-changeuserpasswords": "{{doc-right|changeuserpasswords}}"
 }

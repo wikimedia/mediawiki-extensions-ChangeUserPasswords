@@ -13,5 +13,6 @@
 	"changeuserpassword-success": "User passwords changed!",
 	"changeuserpassword-title": "Change user passwords",
 	"changeuserpassword-intro": "This is an extension for changing user passwords, excepting a few as indicated by admin.",
+	"action-changeuserpasswords": "change user passwords",
 	"right-changeuserpasswords": "Change user passwords"
 }
