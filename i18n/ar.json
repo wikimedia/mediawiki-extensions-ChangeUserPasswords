@@ -11,5 +11,6 @@
 	"changeuserpassword-success": "تم تغيير كلمات سر المستخدمين!",
 	"changeuserpassword-title": "تغيير كلمات سر المستخدمين",
 	"changeuserpassword-intro": "هذا امتداد لتغيير كلمات سر المستخدمين، متوقعا القليل كما هو مشار إليه بواسطة الإداري.",
+	"action-changeuserpasswords": "تغيير كلمات سر المستخدمين",
 	"right-changeuserpasswords": "تغيير كلمات سر المستخدمين"
 }

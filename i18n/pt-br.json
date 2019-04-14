@@ -11,5 +11,6 @@
 	"changeuserpassword-success": "Senhas de usuários alteradas!",
 	"changeuserpassword-title": "Alterar senha",
 	"changeuserpassword-intro": "Esta é uma extensão para alterar senhas de usuários, exceto algumas indicadas por administradores.",
+	"action-changeuserpasswords": "alterar senhas de usuários",
 	"right-changeuserpasswords": "Alterar senha"
 }

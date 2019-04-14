@@ -11,5 +11,6 @@
 	"changeuserpassword-success": "Корисничките лозинки се променети!",
 	"changeuserpassword-title": "Промена на кориснички лозинки",
 	"changeuserpassword-intro": "Овој додаток служи за менување на кориснички лозинки, освен неколку укажани од администратор.",
+	"action-changeuserpasswords": "промена на кориснички лозинки",
 	"right-changeuserpasswords": "Промена на кориснички лозинки"
 }

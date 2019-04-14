@@ -11,5 +11,6 @@
 	"changeuserpassword-success": "Паролі користувачів змінені!",
 	"changeuserpassword-title": "Зміна паролів користувачів",
 	"changeuserpassword-intro": "Це розширення слугує для зміни паролів користувачів, окрім декількох, визначених адміністратором.",
+	"action-changeuserpasswords": "зміна паролів користувачів",
 	"right-changeuserpasswords": "Зміна паролів користувачів"
 }
