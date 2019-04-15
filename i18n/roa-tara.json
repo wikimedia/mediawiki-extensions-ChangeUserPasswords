@@ -11,5 +11,6 @@
 	"changeuserpassword-success": "Password de l'utende cangiate!",
 	"changeuserpassword-title": "Cange le password de l'utende",
 	"changeuserpassword-intro": "Queste jè 'n'estenzione pe cangià le password de l'utende, tranne quacchedune indicate da l'amministratore.",
+	"action-changeuserpasswords": "cange le passuord de l'utende",
 	"right-changeuserpasswords": "Cange le password de l'utende"
 }

@@ -12,6 +12,6 @@
 	"changeuserpassword-success": "Les mots de passe utilisateur ont été modifiés !",
 	"changeuserpassword-title": "Modifier les mots de passe utilisateur",
 	"changeuserpassword-intro": "Ceci est une extension pour modifier les mots de passe des utilisateurs, sauf certains définis par l'administrateur.",
-	"action-changeuserpasswords": "modifier les mot de passes d’utilisateurs",
+	"action-changeuserpasswords": "modifier les mots de passe des utilisateurs",
 	"right-changeuserpasswords": "Modifier les mots de passe utilisateur"
 }
