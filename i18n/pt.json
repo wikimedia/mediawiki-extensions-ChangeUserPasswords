@@ -11,5 +11,6 @@
 	"changeuserpassword-success": "As palavras-passe dos utilizadores foram alteradas!",
 	"changeuserpassword-title": "Alterar palavras-passe",
 	"changeuserpassword-intro": "Esta extensão permite alterar palavras-passe dos utilizadores, exceto algumas indicadas por administradores.",
+	"action-changeuserpasswords": "alterar a palavra-passe dos utilizadores",
 	"right-changeuserpasswords": "Alterar palavras-passe"
 }

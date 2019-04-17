@@ -13,5 +13,6 @@
 	"changeuserpassword-success": "Benutzerkennwörter geändert!",
 	"changeuserpassword-title": "Benutzerkennwörter ändern",
 	"changeuserpassword-intro": "Dies ist eine Erweiterung zum Ändern von Benutzerkennwörtern. Die zu ändernden Benutzer(kennwörter) können durch den Admin festgelegt werden.",
+	"action-changeuserpasswords": "Benutzerkennwörter zu ändern",
 	"right-changeuserpasswords": "Benutzerkennwörter ändern"
 }
