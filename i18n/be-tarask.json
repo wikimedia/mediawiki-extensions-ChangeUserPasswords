@@ -11,5 +11,6 @@
 	"changeuserpassword-success": "Паролі ўдзельнікаў зьмененыя!",
 	"changeuserpassword-title": "Зьмена пароляў удзельнікаў",
 	"changeuserpassword-intro": "Гэтае пашырэньне для зьмены пароляў удзельнікаў, акрамя некаторых, вызначаных адміністратарам.",
+	"action-changeuserpasswords": "зьмену пароляў удзельнікаў",
 	"right-changeuserpasswords": "Зьмена пароляў удзельнікаў"
 }
