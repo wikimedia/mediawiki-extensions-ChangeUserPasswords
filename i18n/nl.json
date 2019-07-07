@@ -11,5 +11,6 @@
 	"changeuserpassword-success": "Gebruikerswachtwoorden gewijzigd!",
 	"changeuserpassword-title": "Gebruikerswachtwoorden wijzigen",
 	"changeuserpassword-intro": "Dit is een uitbreiding voor het wijzigen van gebruikerswachtwoorden, met uitzondering van die aangewezen door een beheerder.",
+	"action-changeuserpasswords": "Wachtwoorden van gebruikers te wijzigen",
 	"right-changeuserpasswords": "Gebruikerswachtwoorden wijzigen"
 }
