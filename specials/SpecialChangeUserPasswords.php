@@ -9,6 +9,7 @@
 
 class SpecialChangeUserPasswords extends SpecialPage {
 	public static $success = false;
+
 	/**
 	 * Initialize the special page.
 	 */
