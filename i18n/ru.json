@@ -11,5 +11,6 @@
 	"changeuserpassword-success": "Пароли участников изменены!",
 	"changeuserpassword-title": "Изменение паролей участников",
 	"changeuserpassword-intro": "Это расширение служит для изменения пользовательских паролей, кроме некоторых, определённых администратором.",
+	"action-changeuserpasswords": "изменение паролей участников",
 	"right-changeuserpasswords": "Изменение паролей участников"
 }
