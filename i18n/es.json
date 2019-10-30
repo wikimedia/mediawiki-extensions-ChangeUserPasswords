@@ -1,0 +1,16 @@
+{
+	"@metadata": {
+		"authors": [
+			"MarcoAurelio"
+		]
+	},
+	"changeuserpasswords": "Cambiar contraseñas de usuarios",
+	"changeuserpassword-desc": "Esta es una extensión que permite cambiar las contraseñas de los usuarios con excepción de unas pocas así definidas por el administrador.",
+	"changeuserpassword-pagename": "Cambiar contraseñas de usuarios",
+	"changeuserpassword-topheader": "Por favor selecciona los nombres de usuario cuyas contraseñas necesitan ser modificadas. Por defecto, todos los usuarios están seleccionados. Por favor desmarca a los usuarios a los cuales no quieres cambiarles la contraseña.",
+	"changeuserpassword-success": "¡Contraseñas cambiadas!",
+	"changeuserpassword-title": "Cambiar contraseñas de usuarios",
+	"changeuserpassword-intro": "Esta es una extensión que permite cambiar las contraseñas de los usuarios con excepción de unas pocas así definidas por el administrador.",
+	"action-changeuserpasswords": "cambiar la contraseña de un usuario",
+	"right-changeuserpasswords": "Cambiar la contraseña de un usuario"
+}
