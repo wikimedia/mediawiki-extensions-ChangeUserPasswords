@@ -12,5 +12,6 @@
 	"changeuserpassword-success": "Корисничке лозинке су промењене.",
 	"changeuserpassword-title": "Промена корисничких лозинки",
 	"changeuserpassword-intro": "Ово је додатак за промену корисничких лозинки, осим неколико колико је назначио администратор.",
+	"action-changeuserpasswords": "промените лозинке корисника",
 	"right-changeuserpasswords": "промена корисничких лозинки"
 }
