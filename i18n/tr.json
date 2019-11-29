@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Hedda"
+			"Hedda",
+			"BaRaN6161 TURK"
 		]
 	},
 	"changeuserpasswords": "Kullanıcı Parolasını Değiştir",
@@ -11,5 +12,6 @@
 	"changeuserpassword-success": "Kullanıcı parolası değişti!",
 	"changeuserpassword-title": "Kullanıcı parolasını değiştir",
 	"changeuserpassword-intro": "Bu, kullanıcı parolalarını değiştirmeye yarayan bir eklentidir.",
+	"action-changeuserpasswords": "kullanıcı şifrelerini değiştir",
 	"right-changeuserpasswords": "Kullanıcı parolasını değiştir"
 }
