@@ -39,7 +39,6 @@
 		"AdminLinks": [
 			"ChangeUserPasswordsHooks::addToAdminLinks"
 		]
-
 	},
 	"manifest_version": 1
 }
