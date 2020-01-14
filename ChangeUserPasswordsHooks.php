@@ -12,7 +12,7 @@ class ChangeUserPasswordsHooks {
 		$generalSection = $adminLinksTree->getSection( wfMessage( 'adminlinks_general' )->text() );
 		$extensionsRow = $generalSection->getRow( 'extensions' );
 
-		if ( is_null( $extensionsRow ) ) {
+		if ( $extensionsRow === null ) {
 			$extensionsRow = new ALRow( 'extensions' );
 			$generalSection->addRow( $extensionsRow );
 		}
