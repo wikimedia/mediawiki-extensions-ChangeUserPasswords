@@ -36,9 +36,7 @@
 		"ChangeUserPasswords": "SpecialChangeUserPasswords"
 	},
 	"Hooks": {
-		"AdminLinks": [
-			"ChangeUserPasswordsHooks::addToAdminLinks"
-		]
+		"AdminLinks": "ChangeUserPasswordsHooks::addToAdminLinks"
 	},
 	"manifest_version": 1
 }
