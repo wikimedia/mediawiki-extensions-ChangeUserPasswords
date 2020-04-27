@@ -6,5 +6,6 @@
 		]
 	},
 	"changeuserpasswords": "שינוי סיסמת המשתמש",
-	"changeuserpassword-success": "סיסמאות המשתמש שונו!"
+	"changeuserpassword-success": "סיסמאות המשתמש שונו!",
+	"right-changeuserpasswords": "שינוי סיסמאות משתמש"
 }
