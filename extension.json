@@ -18,8 +18,8 @@
 		"changeuserpasswords"
 	],
 	"AutoloadClasses": {
-		"ChangeUserPasswordsHooks": "ChangeUserPasswordsHooks.php",
-		"SpecialChangeUserPasswords": "specials/SpecialChangeUserPasswords.php"
+		"ChangeUserPasswordsHooks": "includes/ChangeUserPasswordsHooks.php",
+		"SpecialChangeUserPasswords": "includes/specials/SpecialChangeUserPasswords.php"
 	},
 	"config": {
 		"ChangeUserPasswordsEnableFoo": true
