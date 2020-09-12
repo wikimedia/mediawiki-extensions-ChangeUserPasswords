@@ -8,6 +8,9 @@
 
 class ChangeUserPasswordsHooks {
 
+	/**
+	 * @param ALTree &$adminLinksTree
+	 */
 	public static function addToAdminLinks( ALTree &$adminLinksTree ) {
 		$generalSection = $adminLinksTree->getSection( wfMessage( 'adminlinks_general' )->text() );
 		$extensionsRow = $generalSection->getRow( 'extensions' );
@@ -19,5 +22,4 @@ class ChangeUserPasswordsHooks {
 
 		$extensionsRow->addItem( ALItem::newFromSpecialPage( 'ChangeUserPasswords' ) );
 	}
-
 }

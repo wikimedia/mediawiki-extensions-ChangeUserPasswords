@@ -65,10 +65,17 @@ class SpecialChangeUserPasswords extends SpecialPage {
 		}
 	}
 
+	/**
+	 * @inheritDoc
+	 */
 	protected function getGroupName() {
 		return 'users';
 	}
 
+	/**
+	 * @param array $formData
+	 * @return mixed
+	 */
 	public function trySubmit( $formData ) {
 		if ( $formData['userNamesSelect'] ) {
 			$passwordFactory = new PasswordFactory();
@@ -133,5 +140,4 @@ class SpecialChangeUserPasswords extends SpecialPage {
 
 		return 'Fail';
 	}
-
 }
