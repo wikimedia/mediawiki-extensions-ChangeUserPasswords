@@ -29,7 +29,7 @@ class SpecialChangeUserPasswords extends SpecialPage {
 
 		$out = $this->getOutput();
 		$out->setPageTitle( $this->msg( 'changeuserpassword-title' ) );
-		$dbr = wfGetDB( DB_MASTER );
+		$dbr = wfGetDB( DB_PRIMARY );
 		$maxUserId = 0;
 		$res = $dbr->select( 'user',
 			[ 'user_id', 'user_name' ],
@@ -83,7 +83,7 @@ class SpecialChangeUserPasswords extends SpecialPage {
 			$maxUserId = 0;
 
 			$blackList = $formData['userNamesSelect'];
-			$dbr = wfGetDB( DB_MASTER );
+			$dbr = wfGetDB( DB_PRIMARY );
 			$contents = '<html><body><table border = "1" cellspacing = "5"  cellpadding = "5">';
 			$contents .= '<tr><th><strong>' . "Username" . '</strong></th>' . '<th><strong>' .
 				"New Password" . '</strong></th></tr>';
